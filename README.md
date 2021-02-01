@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="./docs/Compact.PNG" align="center" width="500"/>
+<img src="./docs/Compact.PNG" align="center"/>
 In this project, we propose a deep graph approach to address the task of speech emotion recognition. A compact, efficient and scalable way to represent data is in the form of graphs. Following the theory of graph signal processing, we propose to model speech signal as a cycle graph or a line graph. Such graph structure enables us to construct a Graph Convolution Network (GCN)-based architecture that can perform an accurate graph convolution in contrast to the approximate convolution used in standard GCNs. We evaluated the performance of our model for speech emotion recognition on the popular IEMOCAP database.
 
 ## Dependency installation
