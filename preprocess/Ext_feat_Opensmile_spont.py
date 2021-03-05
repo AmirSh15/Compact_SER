@@ -26,7 +26,7 @@ fix_len = 120
 
 # openSMILE (Need to be changed)
 exe_opensmile = "./home/user/opensmile-2.3.0/SMILExtract"
-path_config   = "/home/user/opensmile-2.3.0/bin/linux_x64_standalone_libstdc6/demo2.conf"
+path_config   = "/demo2.conf"
 
 
 for ses in sessions:
