@@ -67,6 +67,7 @@ optional arguments:
 <br>
 
 ## Reference 
+If you found this repo useful give me a star!
 
 [ArXiv's paper](https://arxiv.org/pdf/2008.02063)
 ```
